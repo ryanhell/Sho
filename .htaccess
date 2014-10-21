@@ -1,0 +1,2 @@
+AuthName "admin"
+AuthUserFile "/home/ryan206/.htpasswds/public_html/passwd"
